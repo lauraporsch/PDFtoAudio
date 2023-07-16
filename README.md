@@ -6,10 +6,10 @@ Processing PDF files with PyPDF2 library
 Text to speech conversion with pyttsx3 library
 
 ### What I learned / used for the first time:
-Combining functionalities of different libraries to one application
-Usage of PyPDF2 and pyttsx3 libraries
-Positioning widgets in TKinter with the help of column weight and setting the padding in the .grid (before I used empty Labels as a workaround)
-Using TKinter filedialog and messagebox for cleaner code (before I would code out the popup window, resulting in more code lines)
+- Combining functionalities of different libraries to one application
+- Usage of PyPDF2 and pyttsx3 libraries
+- Positioning widgets in TKinter with the help of column weight and setting the padding in the .grid (before I used empty Labels as a workaround)
+- Using TKinter filedialog and messagebox for cleaner code (before I would code out the popup window, resulting in more code lines)
 
 User Interface
 ![image](https://github.com/lauraporsch/PDFtoAudio/assets/127047376/db8be147-f678-4838-8b52-9099e47b56b5)
